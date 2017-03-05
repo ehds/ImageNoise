@@ -21,7 +21,7 @@
 可见随着平均图像数量M的增加，噪声在每个像素的位置(x,y)的影响越来越小
 
 	
-    高斯噪声的实现及代码见[维基百科](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
+     [高斯噪声原理](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform)
 ```
 #include <cstdlib>
 #include <cmath>
